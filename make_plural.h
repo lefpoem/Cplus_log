@@ -1,3 +1,4 @@
+//if precomplier
 #ifndef MAKE_PLURAL
 #define MAKE_PLURAL
 #include <string>
